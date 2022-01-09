@@ -22,4 +22,4 @@ if le==ri:
 else:
     print("READY")
 
-#https://www.acmicpc.net/problem/18406
+
